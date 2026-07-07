@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: TalentMap, Doctor Hub, and Nexora (MERN Stack Applications)<br><br>👯 I’m looking to collaborate on: Full Stack Web Development, Open Source Projects, and AI-powered Applications<br><br>🤝 I’m looking for help with: System Design, Scalable Architectures, and Advanced DevOps Practices<br><br>🌱 I’m currently learning: Advanced MERN Stack Development, Data Structures, Cloud Technologies, and System Design<br><br>💬 Ask me about: JavaScript, React, Node.js, Express.js, MongoDB, Java, C++, Data Structures, IBM Cloud, and Watson Services<br><br>⚡ Fun fact: I enjoy learning new technologies by building real-world projects and solving programming challenges.
+🔭 I’m currently working on: Food Genie<br><br>👯 I’m looking to collaborate on: Full Stack Web Development, Open Source Projects, and AI-powered Applications<br><br>🤝 I’m looking for help with: System Design, Scalable Architectures, and Advanced DevOps Practices<br><br>🌱 I’m currently learning: Advanced MERN Stack Development, Data Structures, Cloud Technologies, and System Design<br><br>💬 Ask me about: JavaScript, React, Node.js, Express.js, MongoDB, Java, C++, Data Structures, IBM Cloud, and Watson Services<br><br>⚡ Fun fact: I enjoy learning new technologies by building real-world projects and solving programming challenges.
 
 
 ## 🌐 Socials:
